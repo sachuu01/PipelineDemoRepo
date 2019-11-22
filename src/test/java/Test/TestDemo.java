@@ -1,4 +1,4 @@
-package Pipeline.Pipeline1;
+package Test;
 
 public class TestDemo {
 	

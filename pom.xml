@@ -31,7 +31,7 @@
         <configuration>
           <forkCount>0</forkCount>
           <suiteXmlFiles>
-            <suiteXmlFile>C:\Users\satyam\git\InnoVation\Guru99\src\main\java\runner\testRunner.xml</suiteXmlFile>
+            <suiteXmlFile>C:\Users\satyam\Documents\Auto1\Pipeline1\src\test\java\runner\testRunner.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
@@ -46,5 +46,18 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+
+  
+  <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.14.3</version>
+    <scope>test</scope>
+</dependency>
+  
+  
+    </dependencies>
+  
+  
+  
 </project>
